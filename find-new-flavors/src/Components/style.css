@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: cadetblue;
+    background-color: rgb(153, 180, 180);
 }
 
 .main{
@@ -52,7 +52,7 @@ body{
 }
 
 .card{
-    width: 200px;
+    width: 180px;
     border-radius: 1rem;
     background-color: darkslategray;
     padding: 5px;
