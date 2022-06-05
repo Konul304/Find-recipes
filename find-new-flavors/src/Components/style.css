@@ -54,7 +54,7 @@ body{
 .card{
     width: 200px;
     border-radius: 1rem;
-    background-color: darkslateblue;
+    background-color: darkslategray;
     padding: 5px;
 }
 
@@ -80,7 +80,7 @@ img{
 .numBox{
     width: 50px;
     height: 40px;
-    background-color: darkslateblue;
+    background-color: darkslategray;
     display: flex;
     justify-content: center;
     align-items: center;
